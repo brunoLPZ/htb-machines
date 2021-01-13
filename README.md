@@ -15,3 +15,9 @@ Basically this is a way to learn more about pentesting, that's why I'm trying to
 * [ ] Intro to Blue Team (EASY)
 
 I will add some future tracks when I'm done with the easiest ones (some day...)
+
+## Annotations
+
+* MachineName(V) -> Machine completed and notes added
+* MachineName(X) -> Machine completed but notes missing
+* MachineName_Challenge -> Challenges

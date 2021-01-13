@@ -1,1 +1,0 @@
-# Nmap 7.70 scan initiated Sat Jan  9 19:40:56 2021 as: nmap -sS -sV -vvv -Pn -p445,4386 -oN services 10.10.10.178

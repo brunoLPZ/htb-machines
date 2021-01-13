@@ -1,5 +1,0 @@
-# Nmap 7.70 scan initiated Tue Dec 29 19:30:18 2020 as: nmap -T5 -p- --open -n -v -oG scan 10.10.10.40
-# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
-Host: 10.10.10.40 ()	Status: Up
-Host: 10.10.10.40 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 49152/open/tcp//unknown///, 49154/open/tcp//unknown///, 49155/open/tcp//unknown///, 49156/open/tcp//unknown///
-# Nmap done at Tue Dec 29 19:30:34 2020 -- 1 IP address (1 host up) scanned in 16.51 seconds
