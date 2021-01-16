@@ -4,11 +4,11 @@ Repository that contains some personal notes of a Noob for HTB machines that I'v
 
 ## Objectives
 
-Basically this is a way to learn more about pentesting, that's why I'm trying to solve first some defined tracks that are marked as 'Easy' in the platform. This is the tracks that I want to solve and my progress:
+Basically this is a way to learn more about pentesting, that's why I'm trying to solve first some defined tracks that are marked as 'Easy' in the platform. These are the tracks that I want to solve and my progress:
 
 
 * [x] Begginer Track (EASY)
-* [ ] Intro to Dante (EASY)
+* [X] Intro to Dante (EASY)
 * [ ] Pwn With Metasploit (But hopefully without using Metasploit) (EASY)
 * [ ] Intro to Binary Exploitation (EASY)
 * [ ] OWASP Top 10 (EASY)
